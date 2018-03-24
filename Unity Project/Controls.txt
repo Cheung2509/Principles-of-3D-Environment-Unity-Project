@@ -1,0 +1,3 @@
+WASD to move
+e to interact
+z and x to look behind or birds eye view
